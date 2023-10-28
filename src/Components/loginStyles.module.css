@@ -1,0 +1,11 @@
+.loaderWrapper{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.separator{
+  margin-bottom: 2vh;
+}
